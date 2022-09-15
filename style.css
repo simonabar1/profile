@@ -4,7 +4,7 @@ a {
 }
 
 body {
-  background-image: url("images/bg-2.jpg");
+  background-image: url("/images/bg-2.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   color: #C4A484;
